@@ -26,3 +26,5 @@ impl VendorReputation {
         1
     }
 }
+
+// improvement 7
