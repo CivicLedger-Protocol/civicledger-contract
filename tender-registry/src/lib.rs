@@ -26,3 +26,5 @@ impl TenderRegistry {
         1
     }
 }
+
+// improvement 12
